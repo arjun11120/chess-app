@@ -1,0 +1,27 @@
+body{
+	margin:0;
+	padding:0;
+	background: darkgrey;
+}
+.sqr{
+    background:#b4bdc9 ;
+    float: left;
+    width: 12.5%;
+    height: 12.5%;
+    box-shadow:inset 0 1px 1px #748191;
+}
+.sqr1{
+    background:#8b98a8;
+    float: left;
+    width: 12.5%;
+    height: 12.5%;
+}
+.clear{
+	clear:left;
+}
+.board{width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    border: 10px solid #333;
+    margin: 50px auto;
+}
